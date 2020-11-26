@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jedvicxa+BV0LdMooIYanLrkG2XPlGwXSfl9pvKV+L288xm3raugj2IzL2kUm18jH9O5Cx7loxu8eE6HnXjk+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Esin\\Documents\\GitHub\\github-upload\\ZiziProject\\ZiziProject\\ZiziProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Esin\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
